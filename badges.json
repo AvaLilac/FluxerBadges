@@ -2,7 +2,7 @@
     {
         "name": "AviaClient Creator",
         "icon": "👑",
-        "Descriptions": "Now who said testing couldn't exist?",
+        "Descriptions": "Creator of Avia Client",
         "users": [
             "1474984364647252017"
         ]
@@ -25,6 +25,7 @@
     {
         "name": "AviaClient Staff",
         "icon": "🚨",
+        "Descriptions": "Staff of the Avia Client Support Community",
         "users": [
             "1474984364647252017",
             "1472192395842850839",
@@ -46,6 +47,7 @@
     {
         "name": "Early Adopter",
         "icon": "🐣",
+        "Descriptions": "Joined the Avia Client Community before Avia Client's Release",
         "users": [
             "1474984364647252017",
             "1472192395842850839",
