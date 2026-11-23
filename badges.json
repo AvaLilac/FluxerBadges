@@ -10,6 +10,7 @@
     {
         "name": "AviaClient Developer",
         "icon": "🛠️",
+        "Descriptions": "Developers for Avia Client",
         "users": [
             "1474984364647252017"
         ]
@@ -25,7 +26,7 @@
     {
         "name": "AviaClient Staff",
         "icon": "🚨",
-        "Descriptions": "Staff of the Avia Client Support Community",
+        "Descriptions": "Moderators of the Avia Client Support Community",
         "users": [
             "1474984364647252017",
             "1472192395842850839",
@@ -70,6 +71,7 @@
     {
         "name": "Plugin Developer",
         "icon": "🧩",
+        "Descriptions": "Plugin Developers Trusted by the Creator of Avia Client",
         "users": [
             "1474984364647252017",
             "1472192395842850839"
@@ -78,6 +80,7 @@
     {
         "name": "Private Testing",
         "icon": "🔑",
+        "Descriptions": "The people who tested Avia Client before it's release",
         "users": [
             "1472192395842850839",
             "1566646860238557184",
