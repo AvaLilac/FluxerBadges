@@ -66,7 +66,8 @@
             "1484617701224039585",
             "1474013623741065138",
             "1573685128398385153",
-            "1569600705595977730"
+            "1569600705595977730",
+            "1488954476764778845"
         ]
     },
     {
@@ -79,7 +80,7 @@
         ]
     },
     {
-        "name": "Private Testing",
+        "name": "Private Tester",
         "icon": "🔑",
         "Descriptions": "The people who tested Avia Client before it's release",
         "users": [
